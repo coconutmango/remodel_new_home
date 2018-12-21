@@ -46,3 +46,14 @@
 
 ![Snipaste_2018-12-20_22-17-59.png](https://i.loli.net/2018/12/20/5c1ba4ad8e4aa.png)
 
+
+
+
+
+## 六. 参考
+
+## 1. [全球十大液晶面板厂商排名](http://m.elecfans.com/article/645991.html)
+
+## 2. [市售主流智能电视消费者报告](https://www.bilibili.com/video/av11179995)
+
+## 3. [入门电视选购：跟着老司机走，开车不迷路](https://post.smzdm.com/p/622631/?promotion=2)
