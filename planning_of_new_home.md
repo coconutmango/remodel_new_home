@@ -1,6 +1,31 @@
 # 新居规划
 
-> 阳台厨房卫生间的地漏，铺设好之后，试水，**有积水**，必须**返工**！！！
+**阳台，厨房，卫生间**的地漏，铺设好之后，试水，**有积水**，必须**返工**！！！
+
+
+
+## 插座
+
+[![开关插座安装高度参考.jpg](https://i.loli.net/2019/07/06/5d1f91887ba9227255.jpg)](https://i.loli.net/2019/07/06/5d1f91887ba9227255.jpg)
+
+
+
+
+### 电源插座
+
+[公牛墙壁开关面板插座开关家用客厅影音专用插座三位配86盒G28白 ](<https://detail.tmall.com/item.htm?id=578576603157&ut_sk=1.WAAx9UQB89gDADVu8%20EYw7WK_21380790_1562343127171.DingTalk.1&sourceType=item&price=49.7&origin_price=101&suid=E7DF5964-AB28-4A42-9128-0565BA7AFED0&un=be58302870e085af132b0f6991806569&share_crt_v=1&cpp=1&shareurl=true&spm=a313p.22.bn.1047065857382&short_name=h.e6FZUv6&app=chrome>)
+
+[![14孔插座.jpg](https://i.loli.net/2019/07/06/5d1f7da6df57736447.jpg)](https://i.loli.net/2019/07/06/5d1f7da6df57736447.jpg)
+
+
+
+### 六类网络插座
+
+[6类网线插座](<https://detail.tmall.com/item.htm?id=591389756150&ut_sk=1.WAAx9UQB89gDADVu8 EYw7WK_21380790_1562347493172..1&sourceType=item&price=36.1&origin_price=72.2&suid=5ED59447-64B3-49BA-B28D-A8FBF65656C0&un=be58302870e085af132b0f6991806569&share_crt_v=1&cpp=1&shareurl=true&spm=a313p.22.ei.1047901112894&short_name=h.e6WoEPy&app=chrome>)
+
+[![一位电脑插座.jpg](https://i.loli.net/2019/07/06/5d1f8bd642cd624284.jpg)](https://i.loli.net/2019/07/06/5d1f8bd642cd624284.jpg)
+
+
 
 
 
@@ -16,6 +41,8 @@
 >
 > 1. 供楼宇对讲系统使用。
 > 2. 供烘鞋器使用。
+
+
 
 
 
@@ -72,6 +99,8 @@
 
 ## 二. 客厅
 
+**预埋 PVC 线管**从电视机 --> 插座
+
 > 电视墙依次预留三组独立的电源插座（左中右各一组）。
 >
 > 沙发两侧各预留一组电源插座，供手机充电使用。
@@ -88,11 +117,69 @@
 
 
 
+### 二位音响插座
+
+> 从电视机下方 --> 沙发两侧
+
+[公牛二位音响插座](<https://detail.tmall.com/item.htm?id=578424903190&ut_sk=1.WAAx9UQB89gDADVu8+EYw7WK_21380790_1562406531154.Copy.1&sourceType=item&price=61.8&origin_price=120&suid=57FA11B2-D44B-4D49-974A-E53C517117A9&un=be58302870e085af132b0f6991806569&share_crt_v=1&sp_tk=4oKzM1VWR1lUc2V1ZUfigrM=&cpp=1&shareurl=true&spm=a313p.22.yx.1048059277938&short_name=h.e6MHh7k&sm=ea0a50>)
+
+[![二位音响插座.jpg](https://i.loli.net/2019/07/06/5d206fe68916034228.jpg)](https://i.loli.net/2019/07/06/5d206fe68916034228.jpg)
+
+
+
+### 机顶盒专用网线插座
+
+[公牛电视电脑6类千兆插座](<https://detail.tmall.com/item.htm?id=596088440837&ut_sk=1.WAAx9UQB89gDADVu8 EYw7WK_21380790_1562347493172..1&sourceType=item&price=51.3&origin_price=102.6&suid=3027B602-1F42-4A90-B233-5B22341EFC24&un=be58302870e085af132b0f6991806569&share_crt_v=1&cpp=1&shareurl=true&spm=a313p.22.hl.1047313144739&short_name=h.e6Woe1F>)
+
+[![电视电脑电脑插座.jpg](https://i.loli.net/2019/07/06/5d1f8bdb7261221242.jpg)](https://i.loli.net/2019/07/06/5d1f8bdb7261221242.jpg)
+
+
+
+### 路由器专用网线插座
+
+> 光猫出线接路由器 WAN 口。
+>
+> 路由器其中一个 WAN 口回弱电箱交换机。
+>
+> 电视网线接路由器 LAN 口。
+
+[6类千兆插座面板 双口](<https://detail.tmall.com/item.htm?id=596148176797&ut_sk=1.WAAx9UQB89gDADVu8+EYw7WK_21380790_1562347493172.Copy.1&sourceType=item&price=53.2&origin_price=106.4&suid=6E907AB4-EF1C-4B4D-823F-D0B671D8D07E&un=be58302870e085af132b0f6991806569&share_crt_v=1&sp_tk=4oKkVlU2N1lUb2NvUm/igqQ=&cpp=1&shareurl=true&spm=a313p.22.2dq.1046602204756&short_name=h.e6kYc65&sm=166725&app=chrome>)
+
+[![二位电脑插座.jpg](https://i.loli.net/2019/07/06/5d1f8bd82ba8422861.jpg)](https://i.loli.net/2019/07/06/5d1f8bd82ba8422861.jpg)
+
+
+
+
 ### 电视机柜
 
 [电视柜现代简约小户型迷你北欧客厅壁挂式电视柜茶几组合伸缩地柜](<https://item.taobao.com/item.htm?spm=a1z0d.6639537.1997196601.15.32e47484PwWRmV&amp;id=562523767567>)
 ![电视柜.png](https://i.loli.net/2019/06/19/5d0a44023e2d288935.png)
-![电视柜尺寸.png](https://i.loli.net/2019/06/19/5d0a440103bc767584.png)
+[![电视机柜.jpg](https://i.loli.net/2019/07/06/5d1f9600b92dd71399.jpg)](https://i.loli.net/2019/07/06/5d1f9600b92dd71399.jpg)
+
+
+
+
+
+
+### 沙发两侧电源插座
+
+沙发两侧插座各一个
+
+[公牛开关插座面板家用墙壁 电源错位五孔面板 斜5孔二三插暗装G18](<https://detail.tmall.com/item.htm?spm=a1z10.3-b-s.w4011-15016882317.57.3bb3248bHFhdIS&id=540293166787&rn=f113ac100df648675274da4e2cffac3d&abbucket=1>)
+
+[![斜五孔.jpg](https://i.loli.net/2019/07/06/5d1f817fc3bd055932.jpg)](https://i.loli.net/2019/07/06/5d1f817fc3bd055932.jpg)
+
+
+
+### 音响插座沙发两侧
+
+> 一位音响插座，从电视墙（二位音响插座） --> 沙发两侧各一个一位音响插座。
+
+[公牛一位音响插座面板](<https://detail.tmall.com/item.htm?id=579369284133&ut_sk=1.WAAx9UQB89gDADVu8+EYw7WK_21380790_1562406531154.Copy.1&sourceType=item&price=40.8&origin_price=80&suid=DF86E03E-6227-4B97-B32C-31BC1C7BC9C4&un=be58302870e085af132b0f6991806569&share_crt_v=1&sp_tk=4oKsVnRJYVlUczQwOWnigqw=&cpp=1&shareurl=true&spm=a313p.22.1op.1046755487244&short_name=h.eTDOJft&sm=62106f>)
+
+[![一位音响插座.jpg](https://i.loli.net/2019/07/06/5d206fe68726e24790.jpg)](https://i.loli.net/2019/07/06/5d206fe68726e24790.jpg)
+
+
 
 ### 路由器
 
@@ -104,20 +191,33 @@
 
 
 
-
 ## 三. 厨房
+
+**预埋 PVC 线管**从壁挂炉 --> 燃气表 （同客厅，橱柜台面免钻孔）
+
+**预埋 PVC 线管**从净水机 --> 水槽 （同客厅，橱柜台面免钻孔）
 
 > 预留净水器电源插座（防水）
 >
 > 预留壁挂炉电源插座
 >
-> 预留管线机电源
+> 预留管线机插座
 >
-> 预留案板上方至少三组独立紧挨着的电源插座
+> 预埋 PVC 线管从净水机 --> 管线机
+>
+> 预留橱柜台面上方至少三组独立紧挨着的电源插座
 >
 > 预留集成灶电源插座
 >
-> 案板外侧做**挡水条**
+> 橱柜和水槽离地高度 85 CM （切菜洗菜不弯腰） 
+>
+> 橱柜台面外侧做**挡水条**
+>
+> 橱柜在离地 5~10cm 水泥平台上 
+>
+> 水槽所在柜子做溢水下坡（有条件做地漏）
+>
+> 厨房有条件做地漏
 
 
 
@@ -204,7 +304,7 @@
 
 ### 冰箱
 
-> 预留冰箱插座，此插座单独一个回路。
+> 预留冰箱插座，此插座最好单独一个回路。
 
 
 
@@ -218,7 +318,9 @@
 
 ## 四. 卫生间
 
-> 预留镜前灯或者智能镜电线，开关和浴霸开关集中控制。
+### 地面和墙面做防水！！！
+
+> 预留镜前灯或者智能镜电线，镜前灯开关和浴霸开关集中控制。
 >
 > 预留智能马桶插座。
 >
@@ -226,7 +328,21 @@
 >
 > 预留电热水器电源插座和冷热水管。
 >
+> **预留接水水龙头**，间距同花洒混水阀间距，离地高度 60 CM。
+>
 > 马桶伴侣供水测改造为冷热混水阀，方便冬天使用。
+
+
+
+
+
+### 浴霸排风口
+
+> 防鸟，防蝙蝠
+
+[通风口风帽外墙防风罩排风口排气罩透气帽出风口油烟机PVC管接头](<https://item.taobao.com/item.htm?ut_sk=1.WAAx9UQB89gDADVu8%2BEYw7WK_21380790_1562346660596.1&id=564598290990&sourceType=item&price=5.8-10.8&suid=B9B44CBC-84BE-426A-A1DE-DB9BBA6D392E&un=be58302870e085af132b0f6991806569&share_crt_v=1&cpp=1&shareurl=true&spm=a313p.22.2by.1047900032598&short_name=h.e6F3FSJ>)
+
+[![PVC通风口.jpg](https://i.loli.net/2019/07/06/5d1f85ae82ee865642.jpg)](https://i.loli.net/2019/07/06/5d1f85ae82ee865642.jpg)
 
 
 
@@ -257,13 +373,19 @@
 
 ### 智能镜
 
+> 预留智能智能镜插座
+
 
 
 ### 智能马桶
 
+> 预留智能马桶插座。
+
 
 
 ### 马桶伴侣
+
+> 改用冷热混水阀。
 
 [箭牌马桶喷枪](<https://detail.tmall.com/item.htm?spm=a1z0d.6639537.1997196601.571.32e47484CCFqKj&id=574769927362>)
 
@@ -296,16 +418,25 @@
 
 
 
+### 电源插座
+
+[公牛墙壁开关面板插座开关家用客厅影音专用插座三位配86盒G28白 ](<https://detail.tmall.com/item.htm?id=578576603157&ut_sk=1.WAAx9UQB89gDADVu8%20EYw7WK_21380790_1562343127171.DingTalk.1&sourceType=item&price=49.7&origin_price=101&suid=E7DF5964-AB28-4A42-9128-0565BA7AFED0&un=be58302870e085af132b0f6991806569&share_crt_v=1&cpp=1&shareurl=true&spm=a313p.22.bn.1047065857382&short_name=h.e6FZUv6&app=chrome>)
+
+[![14孔插座.jpg](https://i.loli.net/2019/07/06/5d1f7da6df57736447.jpg)](https://i.loli.net/2019/07/06/5d1f7da6df57736447.jpg)
+
+
+
+### 六类网络插座
+
+[6类网线插座](<https://detail.tmall.com/item.htm?id=591389756150&ut_sk=1.WAAx9UQB89gDADVu8 EYw7WK_21380790_1562347493172..1&sourceType=item&price=36.1&origin_price=72.2&suid=5ED59447-64B3-49BA-B28D-A8FBF65656C0&un=be58302870e085af132b0f6991806569&share_crt_v=1&cpp=1&shareurl=true&spm=a313p.22.ei.1047901112894&short_name=h.e6WoEPy&app=chrome>)
+
+[![一位电脑插座.jpg](https://i.loli.net/2019/07/06/5d1f8bd642cd624284.jpg)](https://i.loli.net/2019/07/06/5d1f8bd642cd624284.jpg)
+
+
 
 
 
 ## 六. 阳台
-
-> 预留洗衣机电源插座
->
-> 预留洗衣机水管
-
-
 
 ### 地漏！！！
 
@@ -313,11 +444,23 @@
 
 
 
+### 洗衣机
+> 预留洗衣机电源插座
+>
+> 预留洗衣机水管
+
+
 
 
 ## 七. 餐厅
 
 > 预留两个独立插座（相邻两墙，或相对两墙），吃火锅专用
+
+### 插座
+
+[公牛开关插座面板家用墙壁 电源错位五孔面板 斜5孔二三插暗装G18](<https://detail.tmall.com/item.htm?spm=a1z10.3-b-s.w4011-15016882317.57.3bb3248bHFhdIS&id=540293166787&rn=f113ac100df648675274da4e2cffac3d&abbucket=1>)
+
+[![斜五孔.jpg](https://i.loli.net/2019/07/06/5d1f817fc3bd055932.jpg)](https://i.loli.net/2019/07/06/5d1f817fc3bd055932.jpg)
 
 
 
