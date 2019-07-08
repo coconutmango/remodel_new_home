@@ -193,6 +193,14 @@
 
 
 
+### 监控
+
+> 网线可选，网线从弱电箱引线。
+
+预留电源和网线
+
+
+
 ### 路由器
 
 [华硕RT-AC86U光纤双频无线AC2900M千兆路由器](<https://detail.tmall.com/item.htm?spm=a220m.1000858.1000725.1.6a1ce755d8pXBz&id=550998292863&skuId=3528625871540&areaId=420300&standard=1&user_id=654519625&cat_id=2&is_b=1&rn=d574e3b0496ea909b86bc3ee40806bae>)
